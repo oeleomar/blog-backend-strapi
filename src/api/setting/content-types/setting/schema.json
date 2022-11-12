@@ -1,10 +1,10 @@
 {
   "kind": "singleType",
-  "collectionName": "setings",
+  "collectionName": "settings",
   "info": {
-    "singularName": "seting",
-    "pluralName": "setings",
-    "displayName": "setings"
+    "singularName": "setting",
+    "pluralName": "settings",
+    "displayName": "settings"
   },
   "options": {
     "draftAndPublish": true
@@ -28,7 +28,6 @@
       "required": false
     },
     "menuLink": {
-      "displayName": "menuLink",
       "type": "component",
       "repeatable": true,
       "component": "menu.menu-link"
